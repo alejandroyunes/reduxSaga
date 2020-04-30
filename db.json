@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "nombre": "Ingerman Alejandro Cano Yunes",
+      "precio": 3434,
+      "id": 25
+    },
+    {
+      "nombre": "james hetfield",
+      "precio": 344,
+      "id": 26
+    },
+    {
+      "nombre": "Ingerman Alejandro Cano Yunes",
+      "precio": 3434,
+      "id": 27
+    },
+    {
+      "nombre": "jkjkjkjk",
+      "precio": 3434,
+      "id": 28
+    },
+    {
+      "nombre": "perro",
+      "precio": 23,
+      "id": 29
+    },
+    {
+      "nombre": "Ingerman Alejandro Cano Yunes",
+      "precio": 89989898989,
+      "id": 30
+    }
+  ]
+}
